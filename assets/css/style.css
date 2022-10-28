@@ -33,7 +33,7 @@ nav{
 	background-image:url('../img/bg-home.jpg');
 	background-repeat: no-repeat;
 	background-size: contain;
-	height: 130vh;
+	height: 140vh;
     color:white;
 }
 .home h1{
@@ -231,7 +231,7 @@ nav{
 	background-image:url('../img/bg-services.png');
 	background-repeat: no-repeat;
 	background-size: contain;
-	height: 125vh;
+	height: 135vh;
     color:white;
 }
 .services h1{
